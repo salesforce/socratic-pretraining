@@ -89,4 +89,4 @@ When referencing this repository, please cite [this paper](https://arxiv.org/abs
 
 ## License
 
-This repository is released under the [BSD-3 License](LICENSE.txt).
+This repository is released under the [Apache-2.0 License](LICENSE.txt).
